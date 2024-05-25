@@ -161,11 +161,4 @@ contract bioDivAndHer {
         return projectInstance.totalFundCurrentStatus;
     }
 
-    /**
-
-    Pending work
-    - use user total credit to buy them or give discount on marketplace
-    - code for marketplace
-
-    **/
 }
